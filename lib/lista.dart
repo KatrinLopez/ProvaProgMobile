@@ -21,4 +21,4 @@ class _Tela1State extends State<Tela1> {
       child:ListTitle(title: Text(
         lista[index]), 
         trailing:IconButton(onPressed:(){}, icon:Icon(Icons.delete)
-        ),)); }) ); }}
+        ),)); }) ); }} 
